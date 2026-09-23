@@ -46,7 +46,7 @@ The report contains five interactive pages:
 
 ### Live Interactive Dashboard
 
-**Power BI live link:** _To be added after publishing._
+[**View Live Interactive Power BI Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiOGI1NThkNzgtYWE2NC00NDc0LTk0MmQtN2I0OWI5Zjg1YWM0IiwidCI6ImM3MzNiYzhmLWMwODYtNGFhYS05YmQ4LTZiZjZhMTRiYWJjMSJ9)
 
 ## Dashboard Pages
 
